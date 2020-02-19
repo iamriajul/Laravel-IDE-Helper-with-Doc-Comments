@@ -1,0 +1,14 @@
+{
+    "name": "iamriajul/laravel-ide-helper-with-doc-comments",
+    "description": "A IDE Helper for your Laravel Project with made of only using Doc Comments",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riajul Islam",
+            "email": "kmriajulislami@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
